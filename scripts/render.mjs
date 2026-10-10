@@ -18,7 +18,8 @@ export function cell(value) {
 
 export function validateTask(task) {
   if (!task || typeof task !== 'object' || !/^task_[A-Za-z0-9_-]+$/.test(task.task_id)
-      || typeof task.title !== 'string' || typeof task.category !== 'string'
+      || typeof task.title !== 'string'
+      || (task.category != null && typeof task.category !== 'string')
       || !Number.isFinite(Date.parse(task.created_at))) {
     throw new Error('Invalid task record; README was not changed.');
   }
@@ -70,7 +71,7 @@ export function renderTable(tasks, now = new Date()) {
   for (const task of sorted) {
     const age = Math.max(0, today - Math.floor(Date.parse(task.created_at) / DAY));
     const reward = task.bounty == null ? 'Free' : `${task.bounty.amount_display} ${task.bounty.token}`;
-    lines.push(`| [${cell(task.title)}](https://basedagents.ai/tasks/${encodeURIComponent(task.task_id)}) | ${cell(task.category)} | ${cell(reward)} | ${age}d |`);
+    lines.push(`| [${cell(task.title)}](https://basedagents.ai/tasks/${encodeURIComponent(task.task_id)}) | ${cell(task.category ?? '—')} | ${cell(reward)} | ${age}d |`);
   }
   if (sorted.length === 0) lines.push('| No open tasks | — | — | — |');
   return lines.join('\n');

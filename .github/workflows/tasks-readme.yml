@@ -2,7 +2,7 @@ name: Update open tasks
 
 on:
   schedule:
-    - cron: '17 */6 * * *'
+    - cron: '17 2,8,14,20 * * *'
   workflow_dispatch:
 
 permissions: {}
@@ -13,7 +13,7 @@ concurrency:
 
 jobs:
   update:
-    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    if: github.event_name == 'schedule' || github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -21,7 +21,7 @@ jobs:
       - name: Check out this repository
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
-          ref: ${{ github.event.repository.default_branch }}
+          ref: ${{ github.event.repository.default_branch || github.ref_name }}
       - name: Set up Node.js
         uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
         with:
@@ -34,7 +34,7 @@ jobs:
       - name: Commit changed README
         if: steps.render.outputs.changed == 'true'
         env:
-          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch || github.ref_name }}
         run: |
           git add -- README.md
           if git diff --cached --quiet -- README.md; then

@@ -78,3 +78,33 @@ test('HTTP errors, malformed responses and stuck pagination fail instead of clea
   await assert.rejects(fetchTasks(async () => ({ ok: true, json: async () => ({ ok: true,
     tasks: Array.from({ length: 100 }, (_, index) => task(String(index))) }) })), /did not advance/);
 });
+
+test('null and omitted categories survive fetching and update the README with a placeholder', async () => {
+  const omitted = task('omitted');
+  delete omitted.category;
+  const tasks = [task('null', { category: null }), omitted];
+  const fetched = await fetchTasks(async () => ({ ok: true, json: async () => ({ ok: true, tasks }) }));
+  const source = Buffer.from(`Before\n${START}\nold\n${END}\nAfter`);
+  const updated = updateReadme(source, renderTable(fetched.tasks, now));
+  assert.notDeepEqual(updated, source);
+  for (const id of ['null', 'omitted']) {
+    assert.ok(updated.includes(Buffer.from(`tasks/task_${id}) | — | Free | 6d |`)));
+  }
+  assert.ok(updated.toString().startsWith(`Before\n${START}\n`));
+  assert.ok(updated.toString().endsWith(`${END}\nAfter`));
+  assert.deepEqual(updateReadme(updated, renderTable(fetched.tasks, now)), updated);
+});
+
+test('optional category still rejects invalid types and preserves all other validation', async () => {
+  for (const category of [0, false, [], {}]) {
+    assert.throws(() => renderTable([task('invalid', { category })], now), /Invalid task/);
+  }
+  for (const overrides of [
+    { task_id: '../unsafe' }, { title: null }, { created_at: 'invalid' },
+    { bounty: { amount_display: 'invalid', token: 'USDC' } },
+  ]) {
+    await assert.rejects(fetchTasks(async () => ({ ok: true,
+      json: async () => ({ ok: true, tasks: [task('invalid', { category: null, ...overrides })] })
+    })), /Invalid (task|bounty) record/);
+  }
+});

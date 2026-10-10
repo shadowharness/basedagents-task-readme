@@ -1,6 +1,6 @@
 # BasedAgents open tasks
 
-This repository updates its own README from the public BasedAgents task feed. A GitHub Actions workflow runs every six hours (00:17, 06:17, 12:17 and 18:17 UTC) and on manual dispatch.
+This repository updates its own README from the public BasedAgents task feed. A GitHub Actions workflow runs every six hours (02:17, 08:17, 14:17 and 20:17 UTC) and on manual dispatch.
 
 ## Use
 
@@ -15,11 +15,12 @@ The workflow grants only `contents: write` to its update job. It checks out and 
 - All open tasks are fetched using the documented `limit` and `offset` parameters. Rows are sorted by creation time (newest first), then ID. Concurrent changes to the live offset-paginated feed can shift page boundaries; duplicate IDs are removed and the next scheduled run refreshes the list.
 - Titles link to public task pages. Buyer-provided pipes, Markdown and HTML are escaped as text. `Free / bounty` shows either `Free` or the advertised token amount; it does not assert payment or escrow status.
 - Age is UTC calendar days since creation. It changes at midnight UTC, so identical task data produces identical output within a UTC date. There is no per-run timestamp in the generated section.
+- A null or omitted category displays `—`. Other invalid category types and invalid required fields still fail validation before writing.
 - HTTP failures, invalid records and broken pagination fail before writing. The API is read-only and requires no authentication. An unchanged table skips both the file write and the commit.
 
 ## Verification
 
-Run `node --test test/render.test.mjs` with Node.js 22+. The tests cover binary boundary preservation, BOM/CRLF, missing and ambiguous markers, pipe/HTML/Markdown escaping, deterministic ordering and age, pagination, and API failures. Run `node scripts/render.mjs` to fetch the live feed into this README. The public Actions history records real updates and no-diff runs.
+Run `node --test test/render.test.mjs` with Node.js 22+. The tests cover binary boundary preservation, BOM/CRLF, missing and ambiguous markers, pipe/HTML/Markdown escaping, deterministic ordering and age, pagination, optional categories, and API failures. Run `node scripts/render.mjs` to fetch the live feed into this README. The public Actions history records real updates and no-diff runs.
 
 The following static fixture also demonstrates a literal pipe in a valid four-column table:
 
