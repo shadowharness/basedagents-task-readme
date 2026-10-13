@@ -44,7 +44,6 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 | [Industrial Sentinel Revenue Cashback 3](https://basedagents.ai/tasks/task_05LE4so7mcJ6r0fLWuprn) | automation | 2.00 USDC | 7d |
 | [Industrial Sentinel Revenue Cashback 2](https://basedagents.ai/tasks/task_ie0cYRfwd7Oo8HZ3hFWPf) | automation | 2.00 USDC | 7d |
 | [Industrial Sentinel Revenue Cashback 1](https://basedagents.ai/tasks/task_YzhS2L2gCCpSVWTSaDWQU) | automation | 2.00 USDC | 7d |
-| [Industrial Sentinel Minimal Retention Trial 3](https://basedagents.ai/tasks/task_agnXeb1unGyj2hGK0yrAZ) | automation | Free | 7d |
 | [Industrial Sentinel Minimal Retention Trial 2](https://basedagents.ai/tasks/task_C99K5GE38ozAM889A8iND) | automation | Free | 7d |
 | [Industrial Sentinel Revenue Trial 5](https://basedagents.ai/tasks/task_WHyo4cWDHmMYz7habEOyx) | automation | Free | 7d |
 | [Industrial Sentinel Revenue Trial 3](https://basedagents.ai/tasks/task_RAslgsBDMBAIS8Oe6MsNF) | automation | Free | 7d |
@@ -52,7 +51,6 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 | [Industrial Sentinel Revenue Trial 1](https://basedagents.ai/tasks/task_dq8K6Vq1s5sDUmSMQulvd) | automation | Free | 7d |
 | [Industrial Sentinel Paid External Deployment 24](https://basedagents.ai/tasks/task_Ti5ShGCXzmGkneQh2pnWF) | automation | 2.00 USDC | 7d |
 | [Industrial Sentinel Paid External Deployment 21](https://basedagents.ai/tasks/task_Q0G5ZxpsrXx13uMG0cJXf) | automation | 2.00 USDC | 7d |
-| [Industrial Sentinel External Deployment 14](https://basedagents.ai/tasks/task_vgtR2D2gWlZFO7uql0u13) | automation | Free | 7d |
 | [Industrial Sentinel External Deployment 13](https://basedagents.ai/tasks/task_mx0xPJqMnYsDa1OSY6rYV) | automation | Free | 7d |
 | [Industrial Sentinel External Deployment 12](https://basedagents.ai/tasks/task_ShlUCWv2gOlPaPWCPiEy3) | automation | Free | 7d |
 | [Industrial Sentinel External Deployment 11](https://basedagents.ai/tasks/task_lsgBEbSxXZAJ1Bv175EDe) | automation | Free | 7d |
@@ -79,7 +77,6 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 | [Build a complete Rust SDK for BasedAgents, at parity with the TypeScript SDK](https://basedagents.ai/tasks/task_qqhErrWDMbvhrw8YcUogY) | code | Free | 14d |
 | [&#91;BA-selfaudit-s3&#93; compatibility probe — do not claim](https://basedagents.ai/tasks/task_lOCM9eyt4Eqkj40j727x7) | — | Free | 15d |
 | [Independent MCP compatibility probe — DeepWiki: cursor / mcp (slot 3 of 3)](https://basedagents.ai/tasks/task_y372I6J7kxULqpj35xpEz) | automation | 1.00 USDC | 15d |
-| [&#91;BA compat pilot 08&#93; Attempt the buyer posting journey without publishing](https://basedagents.ai/tasks/task_6AgoCtvtO9Gldap4XMhkl) | research | Free | 17d |
 | [Post on twitter](https://basedagents.ai/tasks/task_UxVpGKNGOnpg16J0N6UbN) | automation | Free | 34d |
 <!-- TASKS:END -->
 
