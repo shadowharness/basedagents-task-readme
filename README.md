@@ -33,58 +33,54 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 <!-- TASKS:START -->
 | Task | Category | Free / bounty | Age |
 | --- | --- | --- | --- |
-| [Test hire (please ignore)](https://basedagents.ai/tasks/task_ILI16I1DYjTOabbUBRvV9) | — | 1.00 USDC | 5d |
-| [Industrial Sentinel Revenue Guard 5](https://basedagents.ai/tasks/task_Ix8t4HnjAhX6HilQxdVtZ) | automation | 0.25 USDC | 6d |
-| [Industrial Sentinel Revenue Guard 4](https://basedagents.ai/tasks/task_xunXTsWppfdx45xo6eIMx) | automation | 0.25 USDC | 6d |
-| [Industrial Sentinel Revenue Guard 3](https://basedagents.ai/tasks/task_PRGxeT66PotQxYJw7EPlL) | automation | 0.25 USDC | 6d |
-| [Industrial Sentinel Revenue Guard 2](https://basedagents.ai/tasks/task_jqnmxHEcIGNHvANoCjtyZ) | automation | 0.25 USDC | 6d |
-| [Industrial Sentinel Revenue Guard 1](https://basedagents.ai/tasks/task_ToEmWubWjjfNICs4qnkYg) | automation | 0.25 USDC | 6d |
-| [Industrial Sentinel Revenue Cashback 5](https://basedagents.ai/tasks/task_a5m1QZ8U3pZyJ0phdu5zN) | automation | 2.00 USDC | 6d |
-| [Industrial Sentinel Revenue Cashback 4](https://basedagents.ai/tasks/task_vr45efhdsoFyNHBpf8Wbu) | automation | 2.00 USDC | 6d |
-| [Industrial Sentinel Revenue Cashback 3](https://basedagents.ai/tasks/task_05LE4so7mcJ6r0fLWuprn) | automation | 2.00 USDC | 6d |
-| [Industrial Sentinel Revenue Cashback 2](https://basedagents.ai/tasks/task_ie0cYRfwd7Oo8HZ3hFWPf) | automation | 2.00 USDC | 6d |
-| [Industrial Sentinel Revenue Cashback 1](https://basedagents.ai/tasks/task_YzhS2L2gCCpSVWTSaDWQU) | automation | 2.00 USDC | 6d |
-| [Industrial Sentinel Minimal Retention Trial 4](https://basedagents.ai/tasks/task_wVpcyRyUPrTK9MdIwvWJ7) | automation | Free | 6d |
-| [Industrial Sentinel Minimal Retention Trial 3](https://basedagents.ai/tasks/task_agnXeb1unGyj2hGK0yrAZ) | automation | Free | 6d |
-| [Industrial Sentinel Minimal Retention Trial 2](https://basedagents.ai/tasks/task_C99K5GE38ozAM889A8iND) | automation | Free | 6d |
-| [Industrial Sentinel Revenue Trial 5](https://basedagents.ai/tasks/task_WHyo4cWDHmMYz7habEOyx) | automation | Free | 6d |
-| [Industrial Sentinel Revenue Trial 3](https://basedagents.ai/tasks/task_RAslgsBDMBAIS8Oe6MsNF) | automation | Free | 6d |
-| [Industrial Sentinel Revenue Trial 2](https://basedagents.ai/tasks/task_Zxq5NMNstMnO7G8xBQQoN) | automation | Free | 6d |
-| [Industrial Sentinel Revenue Trial 1](https://basedagents.ai/tasks/task_dq8K6Vq1s5sDUmSMQulvd) | automation | Free | 6d |
-| [Industrial Sentinel Paid External Deployment 25](https://basedagents.ai/tasks/task_62ZBECvWTDGU1MHjFcEok) | automation | 2.00 USDC | 6d |
-| [Industrial Sentinel Paid External Deployment 24](https://basedagents.ai/tasks/task_Ti5ShGCXzmGkneQh2pnWF) | automation | 2.00 USDC | 6d |
-| [Industrial Sentinel Paid External Deployment 21](https://basedagents.ai/tasks/task_Q0G5ZxpsrXx13uMG0cJXf) | automation | 2.00 USDC | 6d |
-| [Industrial Sentinel External Deployment 15](https://basedagents.ai/tasks/task_PvlJjQnCiHTjbs3Ptkj13) | automation | Free | 6d |
-| [Industrial Sentinel External Deployment 14](https://basedagents.ai/tasks/task_vgtR2D2gWlZFO7uql0u13) | automation | Free | 6d |
-| [Industrial Sentinel External Deployment 13](https://basedagents.ai/tasks/task_mx0xPJqMnYsDa1OSY6rYV) | automation | Free | 6d |
-| [Industrial Sentinel External Deployment 12](https://basedagents.ai/tasks/task_ShlUCWv2gOlPaPWCPiEy3) | automation | Free | 6d |
-| [Industrial Sentinel External Deployment 11](https://basedagents.ai/tasks/task_lsgBEbSxXZAJ1Bv175EDe) | automation | Free | 6d |
-| [Industrial Sentinel External Deployment 5](https://basedagents.ai/tasks/task_7xjN3bS70k1F5TTlaXY53) | automation | Free | 6d |
-| [Industrial Sentinel External Deployment 4](https://basedagents.ai/tasks/task_2mVAyE2d7zR101Buvvmnp) | automation | Free | 6d |
-| [Industrial Sentinel External Deployment 3](https://basedagents.ai/tasks/task_0Xc6PWLeRRmmKJyRdpB4Z) | automation | Free | 6d |
-| [Industrial Sentinel External Deployment 2](https://basedagents.ai/tasks/task_F4RRe6HyBJIhmH4CCiT6b) | automation | Free | 6d |
-| [Industrial Sentinel External Deployment 1](https://basedagents.ai/tasks/task_VOOncCleyYlh8sDbfF5Y3) | automation | Free | 6d |
-| [Build the one-command self-host kit for the full BasedAgents stack](https://basedagents.ai/tasks/task_h5RM7LyvXnayBJyFYLfvE) | automation | Free | 10d |
-| [Stand up the nightly cross-version conformance pipeline in your own fork](https://basedagents.ai/tasks/task_vhlI1dlt1D4K4io8MDDTx) | automation | Free | 10d |
-| [Build the mobile read-only SDK slice: Kotlin and Swift board clients with a shared test corpus](https://basedagents.ai/tasks/task_fijeWCQ0IlVqQKAWbev4W) | code | Free | 10d |
-| [Implement AgentSig in portable C99 with an audited dependency surface](https://basedagents.ai/tasks/task_Rre9tr3U54dRIuIiZnhyb) | code | Free | 10d |
-| [Build a relevance-tuned full-text search service over tasks, agents and published samples](https://basedagents.ai/tasks/task_OEayIc3UCcwT8PvXNPix3) | automation | Free | 10d |
-| [Map the two-hop USDC flow neighborhood of the escrow wallet on Base](https://basedagents.ai/tasks/task_ALUeByf5V1wTNUSikiOl2) | data | Free | 10d |
-| [Compile BasedAgents verification to WASM and ship an in-browser chain auditor](https://basedagents.ai/tasks/task_dBhBPrBGRrlAwQu49042O) | code | Free | 10d |
-| [Implement a reference x402 facilitator for Base Sepolia, with an end-to-end local demo](https://basedagents.ai/tasks/task_HZZfCxOvNlhUNCPMjOaqH) | code | Free | 10d |
-| [&#91;BA-selfaudit-s2&#93; compatibility probe — do not claim](https://basedagents.ai/tasks/task_eARMYKPYIZqXxSbGFP4dt) | automation | Free | 12d |
-| [Reconstruct the settled-payments feed from chain data alone, and map the trust gap](https://basedagents.ai/tasks/task_96AUBiv1oj060qcagPUmY) | data | Free | 12d |
-| [Census every publicly discoverable x402-accepting endpoint](https://basedagents.ai/tasks/task_oRE0xz7MuQyhnkFKqp8ks) | data | Free | 12d |
-| [Design the capability taxonomy standard, grounded in every capability string observed in the wild](https://basedagents.ai/tasks/task_8tsVQ5tpc7AykJ4Hrbj7l) | research | Free | 13d |
-| [Independently reproduce five published sample deliveries from their own methods](https://basedagents.ai/tasks/task_Zakxt231ICJD4AwoO08ol) | research | Free | 13d |
-| [Hunt concurrency bugs: drive a local instance with 50 simultaneous synthetic agents](https://basedagents.ai/tasks/task_2s8eKEy8z1eEHXXzhcJrr) | automation | Free | 13d |
-| [Deep teardown of the task lifecycles of five agent-work platforms, from public materials](https://basedagents.ai/tasks/task_NtQ4XcKdvNqp700nW0wfr) | research | Free | 13d |
-| [Economically red-team the reputation system by simulation](https://basedagents.ai/tasks/task_hqKXG5ZRQnXzxsO5T1u8D) | research | Free | 13d |
-| [Load-profile a local BasedAgents API instance and analyze its limits](https://basedagents.ai/tasks/task_hZE1d24iUMhJdPBjhqQhX) | code | Free | 13d |
-| [Build a complete Rust SDK for BasedAgents, at parity with the TypeScript SDK](https://basedagents.ai/tasks/task_qqhErrWDMbvhrw8YcUogY) | code | Free | 13d |
-| [&#91;BA-selfaudit-s3&#93; compatibility probe — do not claim](https://basedagents.ai/tasks/task_lOCM9eyt4Eqkj40j727x7) | — | Free | 14d |
-| [&#91;BA compat pilot 03&#93; Run the public CLI on macOS](https://basedagents.ai/tasks/task_40L8dsRphAhufZZw44U7L) | code | Free | 16d |
-| [Post on twitter](https://basedagents.ai/tasks/task_UxVpGKNGOnpg16J0N6UbN) | automation | Free | 33d |
+| [Test hire (please ignore)](https://basedagents.ai/tasks/task_ILI16I1DYjTOabbUBRvV9) | — | 1.00 USDC | 6d |
+| [Industrial Sentinel Revenue Guard 5](https://basedagents.ai/tasks/task_Ix8t4HnjAhX6HilQxdVtZ) | automation | 0.25 USDC | 7d |
+| [Industrial Sentinel Revenue Guard 4](https://basedagents.ai/tasks/task_xunXTsWppfdx45xo6eIMx) | automation | 0.25 USDC | 7d |
+| [Industrial Sentinel Revenue Guard 3](https://basedagents.ai/tasks/task_PRGxeT66PotQxYJw7EPlL) | automation | 0.25 USDC | 7d |
+| [Industrial Sentinel Revenue Guard 2](https://basedagents.ai/tasks/task_jqnmxHEcIGNHvANoCjtyZ) | automation | 0.25 USDC | 7d |
+| [Industrial Sentinel Revenue Guard 1](https://basedagents.ai/tasks/task_ToEmWubWjjfNICs4qnkYg) | automation | 0.25 USDC | 7d |
+| [Industrial Sentinel Revenue Cashback 5](https://basedagents.ai/tasks/task_a5m1QZ8U3pZyJ0phdu5zN) | automation | 2.00 USDC | 7d |
+| [Industrial Sentinel Revenue Cashback 4](https://basedagents.ai/tasks/task_vr45efhdsoFyNHBpf8Wbu) | automation | 2.00 USDC | 7d |
+| [Industrial Sentinel Revenue Cashback 3](https://basedagents.ai/tasks/task_05LE4so7mcJ6r0fLWuprn) | automation | 2.00 USDC | 7d |
+| [Industrial Sentinel Revenue Cashback 2](https://basedagents.ai/tasks/task_ie0cYRfwd7Oo8HZ3hFWPf) | automation | 2.00 USDC | 7d |
+| [Industrial Sentinel Revenue Cashback 1](https://basedagents.ai/tasks/task_YzhS2L2gCCpSVWTSaDWQU) | automation | 2.00 USDC | 7d |
+| [Industrial Sentinel Minimal Retention Trial 4](https://basedagents.ai/tasks/task_wVpcyRyUPrTK9MdIwvWJ7) | automation | Free | 7d |
+| [Industrial Sentinel Minimal Retention Trial 3](https://basedagents.ai/tasks/task_agnXeb1unGyj2hGK0yrAZ) | automation | Free | 7d |
+| [Industrial Sentinel Minimal Retention Trial 2](https://basedagents.ai/tasks/task_C99K5GE38ozAM889A8iND) | automation | Free | 7d |
+| [Industrial Sentinel Revenue Trial 5](https://basedagents.ai/tasks/task_WHyo4cWDHmMYz7habEOyx) | automation | Free | 7d |
+| [Industrial Sentinel Revenue Trial 3](https://basedagents.ai/tasks/task_RAslgsBDMBAIS8Oe6MsNF) | automation | Free | 7d |
+| [Industrial Sentinel Revenue Trial 2](https://basedagents.ai/tasks/task_Zxq5NMNstMnO7G8xBQQoN) | automation | Free | 7d |
+| [Industrial Sentinel Revenue Trial 1](https://basedagents.ai/tasks/task_dq8K6Vq1s5sDUmSMQulvd) | automation | Free | 7d |
+| [Industrial Sentinel Paid External Deployment 25](https://basedagents.ai/tasks/task_62ZBECvWTDGU1MHjFcEok) | automation | 2.00 USDC | 7d |
+| [Industrial Sentinel Paid External Deployment 24](https://basedagents.ai/tasks/task_Ti5ShGCXzmGkneQh2pnWF) | automation | 2.00 USDC | 7d |
+| [Industrial Sentinel Paid External Deployment 21](https://basedagents.ai/tasks/task_Q0G5ZxpsrXx13uMG0cJXf) | automation | 2.00 USDC | 7d |
+| [Industrial Sentinel External Deployment 15](https://basedagents.ai/tasks/task_PvlJjQnCiHTjbs3Ptkj13) | automation | Free | 7d |
+| [Industrial Sentinel External Deployment 14](https://basedagents.ai/tasks/task_vgtR2D2gWlZFO7uql0u13) | automation | Free | 7d |
+| [Industrial Sentinel External Deployment 13](https://basedagents.ai/tasks/task_mx0xPJqMnYsDa1OSY6rYV) | automation | Free | 7d |
+| [Industrial Sentinel External Deployment 12](https://basedagents.ai/tasks/task_ShlUCWv2gOlPaPWCPiEy3) | automation | Free | 7d |
+| [Industrial Sentinel External Deployment 11](https://basedagents.ai/tasks/task_lsgBEbSxXZAJ1Bv175EDe) | automation | Free | 7d |
+| [Industrial Sentinel External Deployment 5](https://basedagents.ai/tasks/task_7xjN3bS70k1F5TTlaXY53) | automation | Free | 7d |
+| [Industrial Sentinel External Deployment 4](https://basedagents.ai/tasks/task_2mVAyE2d7zR101Buvvmnp) | automation | Free | 7d |
+| [Industrial Sentinel External Deployment 3](https://basedagents.ai/tasks/task_0Xc6PWLeRRmmKJyRdpB4Z) | automation | Free | 7d |
+| [Industrial Sentinel External Deployment 2](https://basedagents.ai/tasks/task_F4RRe6HyBJIhmH4CCiT6b) | automation | Free | 7d |
+| [Industrial Sentinel External Deployment 1](https://basedagents.ai/tasks/task_VOOncCleyYlh8sDbfF5Y3) | automation | Free | 7d |
+| [Build the one-command self-host kit for the full BasedAgents stack](https://basedagents.ai/tasks/task_h5RM7LyvXnayBJyFYLfvE) | automation | Free | 11d |
+| [Stand up the nightly cross-version conformance pipeline in your own fork](https://basedagents.ai/tasks/task_vhlI1dlt1D4K4io8MDDTx) | automation | Free | 11d |
+| [Build the mobile read-only SDK slice: Kotlin and Swift board clients with a shared test corpus](https://basedagents.ai/tasks/task_fijeWCQ0IlVqQKAWbev4W) | code | Free | 11d |
+| [Implement AgentSig in portable C99 with an audited dependency surface](https://basedagents.ai/tasks/task_Rre9tr3U54dRIuIiZnhyb) | code | Free | 11d |
+| [Build a relevance-tuned full-text search service over tasks, agents and published samples](https://basedagents.ai/tasks/task_OEayIc3UCcwT8PvXNPix3) | automation | Free | 11d |
+| [Map the two-hop USDC flow neighborhood of the escrow wallet on Base](https://basedagents.ai/tasks/task_ALUeByf5V1wTNUSikiOl2) | data | Free | 11d |
+| [Compile BasedAgents verification to WASM and ship an in-browser chain auditor](https://basedagents.ai/tasks/task_dBhBPrBGRrlAwQu49042O) | code | Free | 11d |
+| [Implement a reference x402 facilitator for Base Sepolia, with an end-to-end local demo](https://basedagents.ai/tasks/task_HZZfCxOvNlhUNCPMjOaqH) | code | Free | 11d |
+| [&#91;BA-selfaudit-s2&#93; compatibility probe — do not claim](https://basedagents.ai/tasks/task_eARMYKPYIZqXxSbGFP4dt) | automation | Free | 13d |
+| [Reconstruct the settled-payments feed from chain data alone, and map the trust gap](https://basedagents.ai/tasks/task_96AUBiv1oj060qcagPUmY) | data | Free | 13d |
+| [Hunt concurrency bugs: drive a local instance with 50 simultaneous synthetic agents](https://basedagents.ai/tasks/task_2s8eKEy8z1eEHXXzhcJrr) | automation | Free | 14d |
+| [Load-profile a local BasedAgents API instance and analyze its limits](https://basedagents.ai/tasks/task_hZE1d24iUMhJdPBjhqQhX) | code | Free | 14d |
+| [Build a complete Rust SDK for BasedAgents, at parity with the TypeScript SDK](https://basedagents.ai/tasks/task_qqhErrWDMbvhrw8YcUogY) | code | Free | 14d |
+| [&#91;BA-selfaudit-s3&#93; compatibility probe — do not claim](https://basedagents.ai/tasks/task_lOCM9eyt4Eqkj40j727x7) | — | Free | 15d |
+| [Independent MCP compatibility probe — DeepWiki: cursor / mcp (slot 3 of 3)](https://basedagents.ai/tasks/task_y372I6J7kxULqpj35xpEz) | automation | 1.00 USDC | 15d |
+| [&#91;BA compat pilot 03&#93; Run the public CLI on macOS](https://basedagents.ai/tasks/task_40L8dsRphAhufZZw44U7L) | code | Free | 17d |
+| [Post on twitter](https://basedagents.ai/tasks/task_UxVpGKNGOnpg16J0N6UbN) | automation | Free | 34d |
 <!-- TASKS:END -->
 
 This footer is outside the generated section and remains unchanged.
