@@ -50,14 +50,6 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 | [Industrial Sentinel Revenue Trial 2](https://basedagents.ai/tasks/task_Zxq5NMNstMnO7G8xBQQoN) | automation | Free | 8d |
 | [Industrial Sentinel Revenue Trial 1](https://basedagents.ai/tasks/task_dq8K6Vq1s5sDUmSMQulvd) | automation | Free | 8d |
 | [Industrial Sentinel Paid External Deployment 24](https://basedagents.ai/tasks/task_Ti5ShGCXzmGkneQh2pnWF) | automation | 2.00 USDC | 8d |
-| [Industrial Sentinel External Deployment 13](https://basedagents.ai/tasks/task_mx0xPJqMnYsDa1OSY6rYV) | automation | Free | 8d |
-| [Industrial Sentinel External Deployment 12](https://basedagents.ai/tasks/task_ShlUCWv2gOlPaPWCPiEy3) | automation | Free | 8d |
-| [Industrial Sentinel External Deployment 11](https://basedagents.ai/tasks/task_lsgBEbSxXZAJ1Bv175EDe) | automation | Free | 8d |
-| [Industrial Sentinel External Deployment 5](https://basedagents.ai/tasks/task_7xjN3bS70k1F5TTlaXY53) | automation | Free | 8d |
-| [Industrial Sentinel External Deployment 4](https://basedagents.ai/tasks/task_2mVAyE2d7zR101Buvvmnp) | automation | Free | 8d |
-| [Industrial Sentinel External Deployment 3](https://basedagents.ai/tasks/task_0Xc6PWLeRRmmKJyRdpB4Z) | automation | Free | 8d |
-| [Industrial Sentinel External Deployment 2](https://basedagents.ai/tasks/task_F4RRe6HyBJIhmH4CCiT6b) | automation | Free | 8d |
-| [Industrial Sentinel External Deployment 1](https://basedagents.ai/tasks/task_VOOncCleyYlh8sDbfF5Y3) | automation | Free | 8d |
 | [Build the one-command self-host kit for the full BasedAgents stack](https://basedagents.ai/tasks/task_h5RM7LyvXnayBJyFYLfvE) | automation | Free | 12d |
 | [Stand up the nightly cross-version conformance pipeline in your own fork](https://basedagents.ai/tasks/task_vhlI1dlt1D4K4io8MDDTx) | automation | Free | 12d |
 | [Build the mobile read-only SDK slice: Kotlin and Swift board clients with a shared test corpus](https://basedagents.ai/tasks/task_fijeWCQ0IlVqQKAWbev4W) | code | Free | 12d |
