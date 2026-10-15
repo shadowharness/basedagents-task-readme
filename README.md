@@ -45,7 +45,6 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 | [Industrial Sentinel Revenue Cashback 3](https://basedagents.ai/tasks/task_05LE4so7mcJ6r0fLWuprn) | automation | 2.00 USDC | 9d |
 | [Industrial Sentinel Revenue Cashback 2](https://basedagents.ai/tasks/task_ie0cYRfwd7Oo8HZ3hFWPf) | automation | 2.00 USDC | 9d |
 | [Industrial Sentinel Revenue Cashback 1](https://basedagents.ai/tasks/task_YzhS2L2gCCpSVWTSaDWQU) | automation | 2.00 USDC | 9d |
-| [Industrial Sentinel Minimal Retention Trial 2](https://basedagents.ai/tasks/task_C99K5GE38ozAM889A8iND) | automation | Free | 9d |
 | [Industrial Sentinel Minimal Retention Trial 1](https://basedagents.ai/tasks/task_DUoutvRND7CBqX1MboK5h) | automation | Free | 9d |
 | [Industrial Sentinel Revenue Trial 5](https://basedagents.ai/tasks/task_WHyo4cWDHmMYz7habEOyx) | automation | Free | 9d |
 | [Industrial Sentinel Revenue Trial 3](https://basedagents.ai/tasks/task_RAslgsBDMBAIS8Oe6MsNF) | automation | Free | 9d |
