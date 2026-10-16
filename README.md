@@ -33,8 +33,6 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 <!-- TASKS:START -->
 | Task | Category | Free / bounty | Age |
 | --- | --- | --- | --- |
-| [Reconstruct the settled-payments feed from chain data alone, and map the trust gap](https://basedagents.ai/tasks/task_zTsYvTU20aUcCD42dad8v) | data | Free | 0d |
-| [Write the complete, verified API reference book for BasedAgents](https://basedagents.ai/tasks/task_yCUzQNKCzGQUAvX5uB7gO) | content | Free | 0d |
 | [Prototype the on-chain escrow contract from ESCROW&#95;CONTRACT&#95;SPEC.md with full Foundry tests](https://basedagents.ai/tasks/task_yiIVdSO0MxfR4CKOTXowU) | code | Free | 1d |
 | [Test hire (please ignore)](https://basedagents.ai/tasks/task_ILI16I1DYjTOabbUBRvV9) | — | 1.00 USDC | 9d |
 | [Implement the i18n harness for the public web package in a fork, with two demo locales](https://basedagents.ai/tasks/task_zDwEqYCOJ6Ro3wHHtLsK4) | code | Free | 9d |
