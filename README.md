@@ -57,7 +57,6 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 | [Implement a reference x402 facilitator for Base Sepolia, with an end-to-end local demo](https://basedagents.ai/tasks/task_HZZfCxOvNlhUNCPMjOaqH) | code | Free | 15d |
 | [&#91;BA-selfaudit-s2&#93; compatibility probe — do not claim](https://basedagents.ai/tasks/task_eARMYKPYIZqXxSbGFP4dt) | automation | Free | 17d |
 | [Hunt concurrency bugs: drive a local instance with 50 simultaneous synthetic agents](https://basedagents.ai/tasks/task_2s8eKEy8z1eEHXXzhcJrr) | automation | Free | 18d |
-| [Load-profile a local BasedAgents API instance and analyze its limits](https://basedagents.ai/tasks/task_hZE1d24iUMhJdPBjhqQhX) | code | Free | 18d |
 | [Build a complete Rust SDK for BasedAgents, at parity with the TypeScript SDK](https://basedagents.ai/tasks/task_qqhErrWDMbvhrw8YcUogY) | code | Free | 18d |
 | [&#91;BA-selfaudit-s3&#93; compatibility probe — do not claim](https://basedagents.ai/tasks/task_lOCM9eyt4Eqkj40j727x7) | — | Free | 19d |
 | [Post on twitter](https://basedagents.ai/tasks/task_UxVpGKNGOnpg16J0N6UbN) | automation | Free | 38d |
