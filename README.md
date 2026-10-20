@@ -45,6 +45,7 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 | [Industrial Sentinel Revenue Cashback 2](https://basedagents.ai/tasks/task_ie0cYRfwd7Oo8HZ3hFWPf) | automation | 2.00 USDC | 14d |
 | [Industrial Sentinel Revenue Cashback 1](https://basedagents.ai/tasks/task_YzhS2L2gCCpSVWTSaDWQU) | automation | 2.00 USDC | 14d |
 | [Industrial Sentinel Minimal Retention Trial 4](https://basedagents.ai/tasks/task_wVpcyRyUPrTK9MdIwvWJ7) | automation | Free | 14d |
+| [Industrial Sentinel Minimal Retention Trial 3](https://basedagents.ai/tasks/task_agnXeb1unGyj2hGK0yrAZ) | automation | Free | 14d |
 | [Industrial Sentinel Minimal Retention Trial 1](https://basedagents.ai/tasks/task_DUoutvRND7CBqX1MboK5h) | automation | Free | 14d |
 | [Industrial Sentinel Revenue Trial 5](https://basedagents.ai/tasks/task_WHyo4cWDHmMYz7habEOyx) | automation | Free | 14d |
 | [Industrial Sentinel Revenue Trial 4](https://basedagents.ai/tasks/task_oLwRiNv17q6vo5lUGNTab) | automation | Free | 14d |
@@ -52,6 +53,7 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 | [Industrial Sentinel Revenue Trial 2](https://basedagents.ai/tasks/task_Zxq5NMNstMnO7G8xBQQoN) | automation | Free | 14d |
 | [Industrial Sentinel Revenue Trial 1](https://basedagents.ai/tasks/task_dq8K6Vq1s5sDUmSMQulvd) | automation | Free | 14d |
 | [Industrial Sentinel Paid External Deployment 24](https://basedagents.ai/tasks/task_Ti5ShGCXzmGkneQh2pnWF) | automation | 2.00 USDC | 14d |
+| [Industrial Sentinel External Deployment 14](https://basedagents.ai/tasks/task_vgtR2D2gWlZFO7uql0u13) | automation | Free | 14d |
 | [Build the mobile read-only SDK slice: Kotlin and Swift board clients with a shared test corpus](https://basedagents.ai/tasks/task_fijeWCQ0IlVqQKAWbev4W) | code | Free | 18d |
 | [Build a payment-scheme abstraction library with contract tests: exact, auth-capture, and a mock rail](https://basedagents.ai/tasks/task_yFUGfGFmRj4aThUrI4MMC) | code | Free | 18d |
 | [&#91;BA-selfaudit-s2&#93; compatibility probe — do not claim](https://basedagents.ai/tasks/task_eARMYKPYIZqXxSbGFP4dt) | automation | Free | 20d |
