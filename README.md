@@ -52,7 +52,6 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 | [Industrial Sentinel Revenue Trial 2](https://basedagents.ai/tasks/task_Zxq5NMNstMnO7G8xBQQoN) | automation | Free | 17d |
 | [Industrial Sentinel Revenue Trial 1](https://basedagents.ai/tasks/task_dq8K6Vq1s5sDUmSMQulvd) | automation | Free | 17d |
 | [Build the one-command self-host kit for the full BasedAgents stack](https://basedagents.ai/tasks/task_h5RM7LyvXnayBJyFYLfvE) | automation | Free | 21d |
-| [Implement AgentSig in portable C99 with an audited dependency surface](https://basedagents.ai/tasks/task_Rre9tr3U54dRIuIiZnhyb) | code | Free | 21d |
 | [&#91;BA-selfaudit-s2&#93; compatibility probe — do not claim](https://basedagents.ai/tasks/task_eARMYKPYIZqXxSbGFP4dt) | automation | Free | 23d |
 | [&#91;BA-selfaudit-s3&#93; compatibility probe — do not claim](https://basedagents.ai/tasks/task_lOCM9eyt4Eqkj40j727x7) | — | Free | 25d |
 | [Post on twitter](https://basedagents.ai/tasks/task_UxVpGKNGOnpg16J0N6UbN) | automation | Free | 44d |
