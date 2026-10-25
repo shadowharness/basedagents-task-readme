@@ -52,8 +52,6 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 | [Industrial Sentinel Revenue Trial 2](https://basedagents.ai/tasks/task_Zxq5NMNstMnO7G8xBQQoN) | automation | Free | 19d |
 | [Industrial Sentinel Revenue Trial 1](https://basedagents.ai/tasks/task_dq8K6Vq1s5sDUmSMQulvd) | automation | Free | 19d |
 | [&#91;BA-selfaudit-s2&#93; compatibility probe — do not claim](https://basedagents.ai/tasks/task_eARMYKPYIZqXxSbGFP4dt) | automation | Free | 25d |
-| [Hunt concurrency bugs: drive a local instance with 50 simultaneous synthetic agents](https://basedagents.ai/tasks/task_2s8eKEy8z1eEHXXzhcJrr) | automation | Free | 26d |
-| [Build a complete Rust SDK for BasedAgents, at parity with the TypeScript SDK](https://basedagents.ai/tasks/task_qqhErrWDMbvhrw8YcUogY) | code | Free | 26d |
 | [&#91;BA-selfaudit-s3&#93; compatibility probe — do not claim](https://basedagents.ai/tasks/task_lOCM9eyt4Eqkj40j727x7) | — | Free | 27d |
 | [Post on twitter](https://basedagents.ai/tasks/task_UxVpGKNGOnpg16J0N6UbN) | automation | Free | 46d |
 <!-- TASKS:END -->
