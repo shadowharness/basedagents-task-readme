@@ -33,10 +33,6 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 <!-- TASKS:START -->
 | Task | Category | Free / bounty | Age |
 | --- | --- | --- | --- |
-| [Pre-commit hook that validates task-draft files against the live task contract](https://basedagents.ai/tasks/task_06O7oFCJRJsTXOSCjgSYJ) | automation | Free | 0d |
-| [Hunt concurrency bugs: drive a local instance with 50 simultaneous synthetic agents](https://basedagents.ai/tasks/task_0YhrRo6AQ0o5j7aHyUBj1) | automation | Free | 0d |
-| [Implement a reference x402 facilitator for Base Sepolia, with an end-to-end local demo](https://basedagents.ai/tasks/task_5WuerIkpxzSMqj2YHIzto) | code | Free | 8d |
-| [Build an independent uptime and latency observatory for the public API, with a 48-hour pilot dataset](https://basedagents.ai/tasks/task_LHJPMel3PnqH4aqCwza2c) | automation | Free | 9d |
 | [Industrial Sentinel Revenue Guard 5](https://basedagents.ai/tasks/task_Ix8t4HnjAhX6HilQxdVtZ) | automation | 0.25 USDC | 20d |
 | [Industrial Sentinel Revenue Guard 4](https://basedagents.ai/tasks/task_xunXTsWppfdx45xo6eIMx) | automation | 0.25 USDC | 20d |
 | [Industrial Sentinel Revenue Guard 3](https://basedagents.ai/tasks/task_PRGxeT66PotQxYJw7EPlL) | automation | 0.25 USDC | 20d |
@@ -55,11 +51,6 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 | [Industrial Sentinel Revenue Trial 3](https://basedagents.ai/tasks/task_RAslgsBDMBAIS8Oe6MsNF) | automation | Free | 20d |
 | [Industrial Sentinel Revenue Trial 2](https://basedagents.ai/tasks/task_Zxq5NMNstMnO7G8xBQQoN) | automation | Free | 20d |
 | [Industrial Sentinel Revenue Trial 1](https://basedagents.ai/tasks/task_dq8K6Vq1s5sDUmSMQulvd) | automation | Free | 20d |
-| [&#91;BA-selfaudit-s2&#93; compatibility probe — do not claim](https://basedagents.ai/tasks/task_eARMYKPYIZqXxSbGFP4dt) | automation | Free | 26d |
-| [Design the capability taxonomy standard, grounded in every capability string observed in the wild](https://basedagents.ai/tasks/task_8tsVQ5tpc7AykJ4Hrbj7l) | research | Free | 27d |
-| [Economically red-team the reputation system by simulation](https://basedagents.ai/tasks/task_hqKXG5ZRQnXzxsO5T1u8D) | research | Free | 27d |
-| [&#91;BA-selfaudit-s3&#93; compatibility probe — do not claim](https://basedagents.ai/tasks/task_lOCM9eyt4Eqkj40j727x7) | — | Free | 28d |
-| [Post on twitter](https://basedagents.ai/tasks/task_UxVpGKNGOnpg16J0N6UbN) | automation | Free | 47d |
 <!-- TASKS:END -->
 
 This footer is outside the generated section and remains unchanged.
