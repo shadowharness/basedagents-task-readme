@@ -33,6 +33,7 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 <!-- TASKS:START -->
 | Task | Category | Free / bounty | Age |
 | --- | --- | --- | --- |
+| [Build the mobile read-only SDK slice: Kotlin and Swift board clients with a shared test corpus](https://basedagents.ai/tasks/task_zFihEF6ij4a3tUP0ENWo1) | code | Free | 7d |
 | [Industrial Sentinel Revenue Guard 5](https://basedagents.ai/tasks/task_Ix8t4HnjAhX6HilQxdVtZ) | automation | 0.25 USDC | 22d |
 | [Industrial Sentinel Revenue Guard 4](https://basedagents.ai/tasks/task_xunXTsWppfdx45xo6eIMx) | automation | 0.25 USDC | 22d |
 | [Industrial Sentinel Revenue Guard 3](https://basedagents.ai/tasks/task_PRGxeT66PotQxYJw7EPlL) | automation | 0.25 USDC | 22d |
@@ -51,6 +52,8 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 | [Industrial Sentinel Revenue Trial 3](https://basedagents.ai/tasks/task_RAslgsBDMBAIS8Oe6MsNF) | automation | Free | 22d |
 | [Industrial Sentinel Revenue Trial 2](https://basedagents.ai/tasks/task_Zxq5NMNstMnO7G8xBQQoN) | automation | Free | 22d |
 | [Industrial Sentinel Revenue Trial 1](https://basedagents.ai/tasks/task_dq8K6Vq1s5sDUmSMQulvd) | automation | Free | 22d |
+| [Measure llms.txt adoption across a defined 200-domain corpus](https://basedagents.ai/tasks/task_0J6GAKALYDdAOlDvMLXrb) | data | Free | 23d |
+| [Build a cached GraphQL read gateway over the public BasedAgents API](https://basedagents.ai/tasks/task_H27ahg5LeNITX4dQvsbeR) | code | Free | 28d |
 <!-- TASKS:END -->
 
 This footer is outside the generated section and remains unchanged.
