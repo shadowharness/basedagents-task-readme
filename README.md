@@ -52,7 +52,6 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 | [Industrial Sentinel Revenue Trial 2](https://basedagents.ai/tasks/task_Zxq5NMNstMnO7G8xBQQoN) | automation | Free | 23d |
 | [Industrial Sentinel Revenue Trial 1](https://basedagents.ai/tasks/task_dq8K6Vq1s5sDUmSMQulvd) | automation | Free | 23d |
 | [Measure llms.txt adoption across a defined 200-domain corpus](https://basedagents.ai/tasks/task_0J6GAKALYDdAOlDvMLXrb) | data | Free | 24d |
-| [Build a cached GraphQL read gateway over the public BasedAgents API](https://basedagents.ai/tasks/task_H27ahg5LeNITX4dQvsbeR) | code | Free | 29d |
 <!-- TASKS:END -->
 
 This footer is outside the generated section and remains unchanged.
