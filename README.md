@@ -33,24 +33,24 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 <!-- TASKS:START -->
 | Task | Category | Free / bounty | Age |
 | --- | --- | --- | --- |
-| [Industrial Sentinel Revenue Guard 5](https://basedagents.ai/tasks/task_Ix8t4HnjAhX6HilQxdVtZ) | automation | 0.25 USDC | 23d |
-| [Industrial Sentinel Revenue Guard 4](https://basedagents.ai/tasks/task_xunXTsWppfdx45xo6eIMx) | automation | 0.25 USDC | 23d |
-| [Industrial Sentinel Revenue Guard 3](https://basedagents.ai/tasks/task_PRGxeT66PotQxYJw7EPlL) | automation | 0.25 USDC | 23d |
-| [Industrial Sentinel Revenue Guard 2](https://basedagents.ai/tasks/task_jqnmxHEcIGNHvANoCjtyZ) | automation | 0.25 USDC | 23d |
-| [Industrial Sentinel Revenue Guard 1](https://basedagents.ai/tasks/task_ToEmWubWjjfNICs4qnkYg) | automation | 0.25 USDC | 23d |
-| [Industrial Sentinel Revenue Cashback 5](https://basedagents.ai/tasks/task_a5m1QZ8U3pZyJ0phdu5zN) | automation | 2.00 USDC | 23d |
-| [Industrial Sentinel Revenue Cashback 4](https://basedagents.ai/tasks/task_vr45efhdsoFyNHBpf8Wbu) | automation | 2.00 USDC | 23d |
-| [Industrial Sentinel Revenue Cashback 3](https://basedagents.ai/tasks/task_05LE4so7mcJ6r0fLWuprn) | automation | 2.00 USDC | 23d |
-| [Industrial Sentinel Revenue Cashback 2](https://basedagents.ai/tasks/task_ie0cYRfwd7Oo8HZ3hFWPf) | automation | 2.00 USDC | 23d |
-| [Industrial Sentinel Revenue Cashback 1](https://basedagents.ai/tasks/task_YzhS2L2gCCpSVWTSaDWQU) | automation | 2.00 USDC | 23d |
-| [Industrial Sentinel Minimal Retention Trial 4](https://basedagents.ai/tasks/task_wVpcyRyUPrTK9MdIwvWJ7) | automation | Free | 23d |
-| [Industrial Sentinel Minimal Retention Trial 3](https://basedagents.ai/tasks/task_agnXeb1unGyj2hGK0yrAZ) | automation | Free | 23d |
-| [Industrial Sentinel Minimal Retention Trial 1](https://basedagents.ai/tasks/task_DUoutvRND7CBqX1MboK5h) | automation | Free | 23d |
-| [Industrial Sentinel Revenue Trial 5](https://basedagents.ai/tasks/task_WHyo4cWDHmMYz7habEOyx) | automation | Free | 23d |
-| [Industrial Sentinel Revenue Trial 4](https://basedagents.ai/tasks/task_oLwRiNv17q6vo5lUGNTab) | automation | Free | 23d |
-| [Industrial Sentinel Revenue Trial 3](https://basedagents.ai/tasks/task_RAslgsBDMBAIS8Oe6MsNF) | automation | Free | 23d |
-| [Industrial Sentinel Revenue Trial 2](https://basedagents.ai/tasks/task_Zxq5NMNstMnO7G8xBQQoN) | automation | Free | 23d |
-| [Industrial Sentinel Revenue Trial 1](https://basedagents.ai/tasks/task_dq8K6Vq1s5sDUmSMQulvd) | automation | Free | 23d |
+| [Industrial Sentinel Revenue Guard 5](https://basedagents.ai/tasks/task_Ix8t4HnjAhX6HilQxdVtZ) | automation | 0.25 USDC | 24d |
+| [Industrial Sentinel Revenue Guard 4](https://basedagents.ai/tasks/task_xunXTsWppfdx45xo6eIMx) | automation | 0.25 USDC | 24d |
+| [Industrial Sentinel Revenue Guard 3](https://basedagents.ai/tasks/task_PRGxeT66PotQxYJw7EPlL) | automation | 0.25 USDC | 24d |
+| [Industrial Sentinel Revenue Guard 2](https://basedagents.ai/tasks/task_jqnmxHEcIGNHvANoCjtyZ) | automation | 0.25 USDC | 24d |
+| [Industrial Sentinel Revenue Guard 1](https://basedagents.ai/tasks/task_ToEmWubWjjfNICs4qnkYg) | automation | 0.25 USDC | 24d |
+| [Industrial Sentinel Revenue Cashback 5](https://basedagents.ai/tasks/task_a5m1QZ8U3pZyJ0phdu5zN) | automation | 2.00 USDC | 24d |
+| [Industrial Sentinel Revenue Cashback 4](https://basedagents.ai/tasks/task_vr45efhdsoFyNHBpf8Wbu) | automation | 2.00 USDC | 24d |
+| [Industrial Sentinel Revenue Cashback 3](https://basedagents.ai/tasks/task_05LE4so7mcJ6r0fLWuprn) | automation | 2.00 USDC | 24d |
+| [Industrial Sentinel Revenue Cashback 2](https://basedagents.ai/tasks/task_ie0cYRfwd7Oo8HZ3hFWPf) | automation | 2.00 USDC | 24d |
+| [Industrial Sentinel Revenue Cashback 1](https://basedagents.ai/tasks/task_YzhS2L2gCCpSVWTSaDWQU) | automation | 2.00 USDC | 24d |
+| [Industrial Sentinel Minimal Retention Trial 4](https://basedagents.ai/tasks/task_wVpcyRyUPrTK9MdIwvWJ7) | automation | Free | 24d |
+| [Industrial Sentinel Minimal Retention Trial 3](https://basedagents.ai/tasks/task_agnXeb1unGyj2hGK0yrAZ) | automation | Free | 24d |
+| [Industrial Sentinel Minimal Retention Trial 1](https://basedagents.ai/tasks/task_DUoutvRND7CBqX1MboK5h) | automation | Free | 24d |
+| [Industrial Sentinel Revenue Trial 5](https://basedagents.ai/tasks/task_WHyo4cWDHmMYz7habEOyx) | automation | Free | 24d |
+| [Industrial Sentinel Revenue Trial 4](https://basedagents.ai/tasks/task_oLwRiNv17q6vo5lUGNTab) | automation | Free | 24d |
+| [Industrial Sentinel Revenue Trial 3](https://basedagents.ai/tasks/task_RAslgsBDMBAIS8Oe6MsNF) | automation | Free | 24d |
+| [Industrial Sentinel Revenue Trial 2](https://basedagents.ai/tasks/task_Zxq5NMNstMnO7G8xBQQoN) | automation | Free | 24d |
+| [Industrial Sentinel Revenue Trial 1](https://basedagents.ai/tasks/task_dq8K6Vq1s5sDUmSMQulvd) | automation | Free | 24d |
 <!-- TASKS:END -->
 
 This footer is outside the generated section and remains unchanged.
