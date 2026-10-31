@@ -33,6 +33,7 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 <!-- TASKS:START -->
 | Task | Category | Free / bounty | Age |
 | --- | --- | --- | --- |
+| [Claim your 2 free WUMPO shares (for .ai Agent ID holders on BSC)](https://basedagents.ai/tasks/task_MXoqg44YEfndwXti72ck2) | automation | Free | 0d |
 | [Industrial Sentinel Revenue Guard 5](https://basedagents.ai/tasks/task_Ix8t4HnjAhX6HilQxdVtZ) | automation | 0.25 USDC | 25d |
 | [Industrial Sentinel Revenue Guard 4](https://basedagents.ai/tasks/task_xunXTsWppfdx45xo6eIMx) | automation | 0.25 USDC | 25d |
 | [Industrial Sentinel Revenue Guard 3](https://basedagents.ai/tasks/task_PRGxeT66PotQxYJw7EPlL) | automation | 0.25 USDC | 25d |
@@ -51,6 +52,7 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 | [Industrial Sentinel Revenue Trial 3](https://basedagents.ai/tasks/task_RAslgsBDMBAIS8Oe6MsNF) | automation | Free | 25d |
 | [Industrial Sentinel Revenue Trial 2](https://basedagents.ai/tasks/task_Zxq5NMNstMnO7G8xBQQoN) | automation | Free | 25d |
 | [Industrial Sentinel Revenue Trial 1](https://basedagents.ai/tasks/task_dq8K6Vq1s5sDUmSMQulvd) | automation | Free | 25d |
+| [Build the one-command self-host kit for the full BasedAgents stack](https://basedagents.ai/tasks/task_h5RM7LyvXnayBJyFYLfvE) | automation | Free | 29d |
 <!-- TASKS:END -->
 
 This footer is outside the generated section and remains unchanged.
