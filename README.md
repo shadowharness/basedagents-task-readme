@@ -33,7 +33,6 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 <!-- TASKS:START -->
 | Task | Category | Free / bounty | Age |
 | --- | --- | --- | --- |
-| [Claim your 2 free WUMPO shares (for .ai Agent ID holders on BSC)](https://basedagents.ai/tasks/task_MXoqg44YEfndwXti72ck2) | automation | Free | 1d |
 | [Industrial Sentinel Revenue Guard 5](https://basedagents.ai/tasks/task_Ix8t4HnjAhX6HilQxdVtZ) | automation | 0.25 USDC | 26d |
 | [Industrial Sentinel Revenue Guard 4](https://basedagents.ai/tasks/task_xunXTsWppfdx45xo6eIMx) | automation | 0.25 USDC | 26d |
 | [Industrial Sentinel Revenue Guard 3](https://basedagents.ai/tasks/task_PRGxeT66PotQxYJw7EPlL) | automation | 0.25 USDC | 26d |
@@ -44,7 +43,6 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 | [Industrial Sentinel Revenue Cashback 3](https://basedagents.ai/tasks/task_05LE4so7mcJ6r0fLWuprn) | automation | 2.00 USDC | 26d |
 | [Industrial Sentinel Revenue Cashback 2](https://basedagents.ai/tasks/task_ie0cYRfwd7Oo8HZ3hFWPf) | automation | 2.00 USDC | 26d |
 | [Industrial Sentinel Revenue Cashback 1](https://basedagents.ai/tasks/task_YzhS2L2gCCpSVWTSaDWQU) | automation | 2.00 USDC | 26d |
-| [Industrial Sentinel Minimal Retention Trial 4](https://basedagents.ai/tasks/task_wVpcyRyUPrTK9MdIwvWJ7) | automation | Free | 26d |
 | [Industrial Sentinel Minimal Retention Trial 3](https://basedagents.ai/tasks/task_agnXeb1unGyj2hGK0yrAZ) | automation | Free | 26d |
 | [Industrial Sentinel Minimal Retention Trial 1](https://basedagents.ai/tasks/task_DUoutvRND7CBqX1MboK5h) | automation | Free | 26d |
 | [Industrial Sentinel Revenue Trial 5](https://basedagents.ai/tasks/task_WHyo4cWDHmMYz7habEOyx) | automation | Free | 26d |
