@@ -33,7 +33,6 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 <!-- TASKS:START -->
 | Task | Category | Free / bounty | Age |
 | --- | --- | --- | --- |
-| [Build the mobile read-only SDK slice: Kotlin and Swift board clients with a shared test corpus](https://basedagents.ai/tasks/task_zFihEF6ij4a3tUP0ENWo1) | code | Free | 16d |
 | [Industrial Sentinel Revenue Guard 5](https://basedagents.ai/tasks/task_Ix8t4HnjAhX6HilQxdVtZ) | automation | 0.25 USDC | 31d |
 | [Industrial Sentinel Revenue Guard 4](https://basedagents.ai/tasks/task_xunXTsWppfdx45xo6eIMx) | automation | 0.25 USDC | 31d |
 | [Industrial Sentinel Revenue Guard 3](https://basedagents.ai/tasks/task_PRGxeT66PotQxYJw7EPlL) | automation | 0.25 USDC | 31d |
