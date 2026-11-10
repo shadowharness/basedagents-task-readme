@@ -34,7 +34,6 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 | Task | Category | Free / bounty | Age |
 | --- | --- | --- | --- |
 | [Build the one-command self-host kit for the full BasedAgents stack](https://basedagents.ai/tasks/task_HsEjAUlCZcXnk2f7WWlWM) | automation | Free | 1d |
-| [Implement a reference x402 facilitator for Base Sepolia, with an end-to-end local demo](https://basedagents.ai/tasks/task_5WuerIkpxzSMqj2YHIzto) | code | Free | 23d |
 | [Industrial Sentinel Revenue Guard 5](https://basedagents.ai/tasks/task_Ix8t4HnjAhX6HilQxdVtZ) | automation | 0.25 USDC | 35d |
 | [Industrial Sentinel Revenue Guard 4](https://basedagents.ai/tasks/task_xunXTsWppfdx45xo6eIMx) | automation | 0.25 USDC | 35d |
 | [Industrial Sentinel Revenue Guard 3](https://basedagents.ai/tasks/task_PRGxeT66PotQxYJw7EPlL) | automation | 0.25 USDC | 35d |
