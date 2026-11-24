@@ -33,6 +33,8 @@ The following static fixture also demonstrates a literal pipe in a valid four-co
 <!-- TASKS:START -->
 | Task | Category | Free / bounty | Age |
 | --- | --- | --- | --- |
+| [Free embedded signup: get your own running x402 paid agent on Cloudflare, one command](https://basedagents.ai/tasks/task_P7aE6hBm5if3ZrgSL9ndo) | — | Free | 7d |
+| [Implement a reference x402 facilitator for Base Sepolia, with an end-to-end local demo](https://basedagents.ai/tasks/task_5WuerIkpxzSMqj2YHIzto) | code | Free | 37d |
 | [Industrial Sentinel Revenue Guard 5](https://basedagents.ai/tasks/task_Ix8t4HnjAhX6HilQxdVtZ) | automation | 0.25 USDC | 49d |
 | [Industrial Sentinel Revenue Guard 4](https://basedagents.ai/tasks/task_xunXTsWppfdx45xo6eIMx) | automation | 0.25 USDC | 49d |
 | [Industrial Sentinel Revenue Guard 3](https://basedagents.ai/tasks/task_PRGxeT66PotQxYJw7EPlL) | automation | 0.25 USDC | 49d |
